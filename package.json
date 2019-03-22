@@ -1,6 +1,6 @@
 {
   "name": "hookhub-bootstrap-local",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "HookHub bootstrap module for local configuration files",
   "scripts": {
     "test": "echo \"Error: no tests yet\" && exit 1"
